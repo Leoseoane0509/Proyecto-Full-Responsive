@@ -367,6 +367,9 @@ textarea:hover {
 .form-label {
   font-weight: 600;
 }
+#comments {
+  resize: none;
+}
 .form-select:hover {
   cursor: pointer;
 }
